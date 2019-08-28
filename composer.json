@@ -15,7 +15,7 @@
     },
     "autoload": {
       "psr-4": {
-        "wework\\src\\test\\": "wework/src/test/"
+        "src\\test\\": "/src/test/"
     }
   }
 }

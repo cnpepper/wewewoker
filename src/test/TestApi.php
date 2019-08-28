@@ -1,6 +1,6 @@
 <?php
 
-namespace wework\src\test;
+namespace src\test;
 
 class TestApi{
     public function test(){
