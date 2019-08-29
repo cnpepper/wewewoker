@@ -7,7 +7,7 @@ use src\utils\Utils;
 use src\utils\error\ParameterError;
 use src\utils\error\QyApiError;
 
-abstract class API
+abstract class Api
 {
     public $rspJson = null;
     public $rspRawStr = null;

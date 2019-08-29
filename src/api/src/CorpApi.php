@@ -5,12 +5,12 @@ use src\utils\HttpUtils;
 use src\utils\Utils;
 use src\utils\error\ParameterError;
 
-use src\api\src\API;
+use src\api\src\Api;
 
 use src\api\datastructure\message\Message;
 use src\api\datastructure\user\User;
 
-class CorpAPI extends API
+class CorpApi extends Api
 {
     private $corpId = null;
     private $secret = null;
