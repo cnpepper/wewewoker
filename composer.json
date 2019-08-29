@@ -15,7 +15,8 @@
     },
     "autoload": {
       "psr-4": {
-        "src\\test\\": "/src/test/"
+        "src\\api\\": "/src/api",
+        "src\\utils\\": "/src/utils/"
     }
   }
 }
